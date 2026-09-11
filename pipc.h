@@ -6,6 +6,7 @@
  * but for user's convienience and because of ioctl()'s cmd is not easy to use,
  * i do this fool.
  */
+
 #ifndef PIPC_H
 #define PIPC_H
 
